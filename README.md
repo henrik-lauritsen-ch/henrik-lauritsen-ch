@@ -11,7 +11,7 @@ FiniteDifference engine for derivatives pricing under SABR and Avellaneda ... al
 \
 *⚡ Fun fact:*
 
-Performer at the Pantomime Theater Tivolis Garde in Copenhagen, (amateur) expert in Swiss History, Mountainbiker and learning about the geology of the Alps ⛰️🏔️⛰️ and how they came about in the first place
+Based in Zurich, perviously Performer at the Pantomime Theater Tivolis Garde in Copenhagen, (amateur) expert in Swiss History, Mountainbiker and learning about the geology of the Alps ⛰️🏔️⛰️ and how they came about in the first place
 
 \
 *📫 How to reach me:*
