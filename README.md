@@ -14,7 +14,7 @@ Performer at the Pantomime Theater Tivolis Garde in Copenhagen, (amateur) expert
 
 \
 *📫 How to reach me:
-henik.lauritsen.ch@iCloud.com
+henik.lauritsen.ch@icloud.com
 
 
 <!--
