@@ -2,15 +2,18 @@
 
 Passionate data science analyst and team leader with comprehensive knowledge of designing, implementing and testing complex mathematical model for companies in the financial sector.
 
+\
+🔭 I’m currently working on ... 
+FiniteDifference engine for derivatives pricing under SABR and Avellaneda ... and also interesting AI projects coming up later this year
 
-🔭 I’m currently working on ... FiniteDifference engine for derivatives pricing under SABR and Avellaneda ... and also interesting AI projects coming up later this year
 
+\
+*⚡ Fun fact:
 
-# ⚡ Fun fact:# 
 Performer at the Pantomime Theater Tivolis Garde in Copenhagen, (amateur) expert in Swiss History and learning about the geology of the Alps ⛰️🏔️⛰️ and how they came about in the first place
 
-
-# 📫 How to reach me:# 
+\
+*📫 How to reach me:
 henik.lauritsen.ch@iCloud.com
 
 
