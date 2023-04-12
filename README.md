@@ -3,7 +3,7 @@
 Passionate data science analyst and team leader with comprehensive knowledge of designing, implementing and testing complex mathematical model for companies in the financial sector.
 
 \
-*🔭 I’m currently working on ... :*
+*🔭 I’m currently working on:*
 
 Shoot-the-Bird and FiniteDifference engine for derivatives pricing under SABR and Avellaneda. Other AI projects coming up later this year
 
