@@ -5,7 +5,7 @@ Passionate data science analyst and team leader with comprehensive knowledge of 
 \
 *🔭 I’m currently working on ... :*
 
-Shoot the Bird and FiniteDifference engine for derivatives pricing under SABR and Avellaneda. Other AI projects coming up later this year
+Shoot-the-Bird and FiniteDifference engine for derivatives pricing under SABR and Avellaneda. Other AI projects coming up later this year
 
 
 \
