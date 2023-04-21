@@ -18,6 +18,8 @@ Based in Zurich, perviously Performer at the Pantomime Theater Tivolis Garde in 
 henik.lauritsen.ch@icloud.com
 
 
+<img src="https://github.com/henrik-lauritsen-ch/Pictures/blob/main/sardona_glarus.png" width=60% height=60%>
+
 <!--
 **henrik-lauritsen-ch/henrik-lauritsen-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
