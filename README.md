@@ -5,7 +5,7 @@ Passionate data science analyst and team leader with comprehensive knowledge of 
 \
 *🔭 I’m currently working on:*
 
-FiniteDifference engine for derivatives pricing under SABR and Avellaneda. AI projects coming up later this year
+Predicting prices of securities
 
 
 \
