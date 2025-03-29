@@ -11,7 +11,7 @@ Predicting prices of securities
 \
 *⚡ Fun fact:*
 
-Based in Zurich, perviously Performer at the Pantomime Theater Tivolis Garde in Copenhagen, (amateur) expert in Swiss History and Mountainbiker. Currently learning about the geology of the Alps ⛰️🏔️⛰️, how they came about and why they one day are expected to disappear again.
+Based in Zurich, perviously Performer at the Pantomime Theater Tivolis Garde in Copenhagen, (amateur) expert in Swiss History, Cuber and Mountainbiker. Currently learning about the geology of the Alps ⛰️🏔️⛰️, how they came about and why they one day are expected to disappear again.
 
 \
 *📫 How to reach me:*
