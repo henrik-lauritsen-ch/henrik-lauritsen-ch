@@ -5,7 +5,7 @@ Passionate data science analyst and team leader with comprehensive knowledge of 
 \
 *🔭 I’m currently working on:*
 
-Jumping with MTB, getting a Cube solved under 35 seconds and getting familiar with new methods in risk management (risk measurement) 😁
+Jumping with MTB, getting a Cube solved in under 35 seconds and getting familiar with new methods in risk management (risk measurement) 😁
 
 
 \
