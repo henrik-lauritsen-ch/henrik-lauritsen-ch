@@ -11,7 +11,7 @@ Jumping with MTB, getting a Cube solved under 35 seconds and getting familiar wi
 \
 *⚡ Fun fact:*
 
-Based in Zurich, perviously Performer at the Pantomime Theater Tivolis Garde in Copenhagen, (amateur) expert in Swiss History, Cuber and Mountainbiker. Currently learning about the geology of the Alps ⛰️🏔️⛰️, how they came about and why they one day are expected to disappear again.
+Based in Zurich, perviously Performer at the Pantomime Theater Tivolis Garde in Copenhagen, (amateur) expert in Swiss History, Cuber and Mountainbiker. Currently learning about the geology of the Alps ⛰️🏔️⛰️, how they came about and why they one day are expected to wanish again (... not that any of us will be around to witness this).
 
 \
 *📫 How to reach me:*
