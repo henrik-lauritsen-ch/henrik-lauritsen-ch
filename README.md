@@ -5,7 +5,7 @@ Passionate data science analyst and team leader with comprehensive knowledge of 
 \
 *🔭 I’m currently working on:*
 
-Predicting prices of securities
+Jumping with MTB, getting a Cube solved under 35 seconds and getting familiar with new methods in risk management (risk measurement) 😁
 
 
 \
