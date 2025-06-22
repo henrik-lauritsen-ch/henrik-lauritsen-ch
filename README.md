@@ -9,7 +9,7 @@ Jumping with MTB, getting a Cube solved in under 35 seconds and getting familiar
 
 <img src="https://github.com/henrik-lauritsen-ch/Pictures/blob/main/rubiks20250622.png" width=40% height=40%> 
 
-... so one Goal down this year. Now second Goal is to get below 45 seconds on average over 12 times.
+... so one Goal down this year. Now second Goal is to get below 45 seconds on average over 12 trails.
 
 
 \
