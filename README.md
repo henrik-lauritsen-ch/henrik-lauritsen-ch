@@ -7,7 +7,7 @@ Passionate data science analyst and team leader with comprehensive knowledge of 
 
 Jumping with MTB, getting a Cube solved in under 35 seconds and getting familiar with new methods in risk management (risk measurement) 😁
 
-<img src="WhatsApp Image 2025-06-22 at 19.58.42.jpeg" width=40% height=40%>
+<img src="https://github.com/henrik-lauritsen-ch/Pictures/blob/main/rubiks20250622.png" width=40% height=40%>
 
 
 \
