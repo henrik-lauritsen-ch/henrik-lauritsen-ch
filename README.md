@@ -7,6 +7,8 @@ Passionate data science analyst and team leader with comprehensive knowledge of 
 
 Jumping with MTB, getting a Cube solved in under 35 seconds and getting familiar with new methods in risk management (risk measurement) 😁
 
+![WhatsApp Image 2025-06-22 at 19 58 42](https://github.com/user-attachments/assets/c952a460-daff-4252-85ef-c97f3093a925)
+
 
 \
 *⚡ Fun fact:*
