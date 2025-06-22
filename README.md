@@ -22,7 +22,7 @@ Based in Zurich, perviously Performer at the Pantomime Theater Tivolis Garde in 
 *📫 How to reach me:*
 henik.lauritsen.ch@icloud.com
 
-<img src="https://github.com/henrik-lauritsen-ch/Pictures/blob/main/fear.png" width=40% height=40%>
+
 
 <!--
 **henrik-lauritsen-ch/henrik-lauritsen-ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
